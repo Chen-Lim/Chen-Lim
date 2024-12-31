@@ -2,7 +2,6 @@
 
 I'm a frontend developer and an engineering student.
 
-- 🧑‍💻 I'm currently working at Bosch, owning marketing and developing tasks.
 - 🪪 **M.Sc. Student** at The University of Sydney. **Project Management**.
 - 🎓 **Zhejiang University of Finance & Economics** - B.S. in **Engineering Management**.
 - 🥰 HTML / CSS / JavaScript / Python / R
