@@ -2,7 +2,7 @@
 
 I'm a frontend developer and an engineering student.
 
-- 🪪 **M.Sc. Student** at The University of Sydney. **Project Management**.
+- 🪪 **M.Sc. Student** at The University of Sydney - **Project Management**.
 - 🎓 **Zhejiang University of Finance & Economics** - B.S. in **Engineering Management**.
 - 🥰 HTML / CSS / JavaScript / Python / R
 - 🔗 Find me -> Linkedin: **[Chen Lim](www.linkedin.com/in/chen-lim-l0202)**
