@@ -1,35 +1,22 @@
 # Hi there 👋
 
-I'm a frontend developer and an engineering student.
+I'm an **AI-Native Marketer & Builder** — bridging product, data, and growth.  
+我是一名 AI 原生的市场运营 & Builder，擅长用技术驱动业务增长。
 
-- 🪪 **M.Sc. Student** at The University of Sydney - **Project Management**.
-- 🎓 **Zhejiang University of Finance & Economics** - B.S. in **Engineering Management**.
-- 🥰 HTML / CSS / JavaScript / Python / R
-- 🔗 Find me -> Linkedin: **[Chen Lim](www.linkedin.com/in/chen-lim-l0202)**
+- 🪪 **M.Sc. Student** at The University of Sydney — **Project Management** (2026.12)
+- 💼 Ex **Bosch · Tesla · Greentown China · Crcc**
+- 🚀 Built [UniTimatable](https://github.com/Chen-Lim/UniTimatable) — USYD timetable → .ics converter, deployed on AWS + Telegram Bot
+- 🔗 LinkedIn: **[Chen Lim](https://www.linkedin.com/in/chen-lim-l0202)**
+- 📞 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/clin0495)
 
+<!-- Tech Stack -->
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![](https://github-readme-stats.vercel.app/api?username=Chen-Lim&show_icons=true&theme=ambient_gradient)
-
-
-<!--
-**Chen-Lim/Chen-Lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
