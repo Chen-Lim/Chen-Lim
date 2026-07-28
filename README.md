@@ -1,12 +1,10 @@
 # Hi there 👋
 
 I'm an **AI-Native Marketer & Builder** — bridging product, data, and growth.  
-我是一名 AI 原生的市场运营 & Builder，擅长用技术驱动业务增长。
 
-- 🪪 **M.Sc. Student** at The University of Sydney — **Project Management** (2026.12)
+- 🪪 **M.Sc. Student** at The University of Sydney — **Project Management** 
 - 💼 Ex **Bosch · Tesla · Greentown China · Crcc**
 - 🚀 Built [UniTimatable](https://github.com/Chen-Lim/UniTimatable) — USYD timetable → .ics converter
-- 🔗 LinkedIn: **[Chen Lim](https://www.linkedin.com/in/chen-lim-l0202)**
 - 📞 Telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/clin0495)
 
 <!-- Tech Stack -->
